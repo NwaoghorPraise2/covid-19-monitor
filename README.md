@@ -37,7 +37,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 * How to make a website responsive with CSS
 * How to make use of DOM manipulations in websites
 * How to consume API using the built-in js fetch function 
-* How to host an app. from github on [REPL](https://repl.co) 
+* How to host an app. from github on [REPL](https://replit.com) 
 
 ## Built With
 
