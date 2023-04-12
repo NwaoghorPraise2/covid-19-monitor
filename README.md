@@ -57,8 +57,7 @@ $ cd covid-19-monitor
 $ run live server
 ```
 ## Features:
-- Add a new question
-- Veiw users credentials and scores
-- Generated ResultSheet for Users
-- Correct Questions
-- More features coming up.....
+- Users can view latest COVID Stats from Different Cities in the World.
+- Users can run COVID self test by answering some questions.
+- Users can report COVID case.
+- Users can get assistances in Emergency Situations.
