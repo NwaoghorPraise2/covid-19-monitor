@@ -33,12 +33,11 @@ In addition to the statistics, the website also provides news updates related to
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ## Things I learnt while working on this project:
-* How to make use of MVVM (Viewmodel + LiveData) in Android projects 
-* How to make use of the Mobile Vision API 
-* How to use data binding with viewmodel and livedata 
-* How to make use of FileProvider when using the device camera 
-* How to be patient when fixing bugs 
-* How to ask questions when I am stuck 
+* How to build a landing page with HTML CSS and JS 
+* How to make a website responsive with CSS
+* How to make use of DOM manipulations in websites
+* How to consume API using the built-in js fetch function 
+* How to host an app. from github on [REPL](https://repl.co) 
 
 ## Built With
 
