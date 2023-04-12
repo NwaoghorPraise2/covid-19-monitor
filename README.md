@@ -32,6 +32,14 @@ In addition to the statistics, the website also provides news updates related to
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
+## Things I learnt while working on this project:
+* How to make use of MVVM (Viewmodel + LiveData) in Android projects 
+* How to make use of the Mobile Vision API 
+* How to use data binding with viewmodel and livedata 
+* How to make use of FileProvider when using the device camera 
+* How to be patient when fixing bugs 
+* How to ask questions when I am stuck 
+
 ## Built With
 
 This project was built the following technologies:
