@@ -22,7 +22,7 @@
 
 ## About The Project
 
-![Screen Shot](img/Screenshot from 2023-04-11 21-55-50.png)
+![Screen Shot](https://github.com/NwaoghorPraise2/covid-19-monitor/blob/master/img/Screenshot%20from%202023-04-11%2021-55-50.png)
 
 The project is a COVID-19 tracker website that provides real-time statistics on the global COVID-19 pandemic. The website displays information such as the total number of confirmed cases, deaths, and recoveries worldwide. Users can also view country-specific data, including the number of cases, deaths, and recoveries for each country.
 
