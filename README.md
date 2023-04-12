@@ -35,10 +35,30 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Built With
 
 This project was built the following technologies:
-
 * [Html](https://en.wikipedia.org/wiki/HTML)
 * [Css](https://en.wikipedia.org/wiki/CSS)
 * [Javascript](https://en.wikipedia.org/wiki/JavaScript)
 * [GlobalCovidAPI](https://covid19api.com)
 * [WHO SelfTestAPI](https://www.who.int)
 * [TwakChatAPI](https://www.tawk.to)
+
+## Requirements
+- Modern web browser (Chrome, Safari, Firefox or IE +10).
+- Basic Javascript Knowlegde.
+- Install Live Server on Vscode.
+
+## Installation
+- Clone the repo. (git clone)
+- Perform the following:
+
+```bash
+
+$ cd covid-19-monitor
+$ run live server
+```
+## Features:
+- Add a new question
+- Veiw users credentials and scores
+- Generated ResultSheet for Users
+- Correct Questions
+- More features coming up.....
