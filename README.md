@@ -10,7 +10,7 @@
     An easy to use covid-19 monitor; monitor the COVID sitaution, run self test and report suspected COVID situation around you. 
     <br/>
     <br/>
-    <a href="https://covid-19-monitor.nwaoghorpraise.repl.co">View Demo</a>
+    <a href="https://41d685ca-1985-4cc2-a639-dcc228e61fc4-00-5u0gkai04src.worf.replit.dev">View Demo</a>
     .
     <a href="https://github.com/NwaoghorPraise2/covid-19-monitor/issues">Report Bug</a>
     .
